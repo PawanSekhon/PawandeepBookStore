@@ -56,5 +56,6 @@ At first got errors because forgot to put "-" in between the update database.
  added dropdown in navbar and edit it according to the instruction.
  tested the code and it run successfully.
 
- 
+ @17:45pm
+ added new project class library named "PawandeepBookStore.DataAccess"
 

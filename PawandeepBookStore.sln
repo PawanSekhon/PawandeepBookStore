@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawandeepBookStore", "PawandeepBookStore.csproj", "{864D98FD-3D69-43C1-ACC9-BD9E6D344C89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawandeepBookStore.DataAccess", "..\PawandeepBookStore.DataAccess\PawandeepBookStore.DataAccess.csproj", "{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{864D98FD-3D69-43C1-ACC9-BD9E6D344C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{864D98FD-3D69-43C1-ACC9-BD9E6D344C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{864D98FD-3D69-43C1-ACC9-BD9E6D344C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
