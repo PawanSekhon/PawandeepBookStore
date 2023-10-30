@@ -56,8 +56,3 @@ At first got errors because forgot to put "-" in between the update database.
  added dropdown in navbar and edit it according to the instruction.
 
 
- while attending i got to know that i cant use "Yeti" for my assignment.
- Now, i decided to change it and searched for new theme.
- I decided to choose "Quartz" as my bootstrap theme.
- And followed the same process for adding it to the project.
-
