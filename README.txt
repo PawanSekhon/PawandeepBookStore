@@ -40,7 +40,7 @@ At first got errors because forgot to put "-" in between the update database.
  I choosed "Quartz" as my bootstrap theme and i download it.
  Then i drag and drop the downloaded theme into the wwwroot>lib>bootstrap>css file and rename the built-in bootstrap.
  
- @14:12
+ @14:12pm
 
  Then, I copy and pasted the given site.css file into the running project.
  Changed the nav class from navbar-light to navbar-dark and bg-white to bg-primary.
@@ -48,7 +48,7 @@ At first got errors because forgot to put "-" in between the update database.
  Remove the "text-dark" in the 23rd line in same file.
  Also, removed the "text-dark" from the "_layout.cshtml" file.
 
- @17:30pm
+ @14:15pm
  tested the project and it ran successfully.
 
  2023-10-30 @ 11:29am
