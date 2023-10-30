@@ -29,15 +29,16 @@ At first got errors because forgot to put "-" in between the update database.
  @12:36pm 
  Move further towards the 1.2 step "Debugging".
  Put breakpoints on Index and Privacy in HomeController.cs file.
+ Added README.md file in repository.
  Then run  the project again and due to breakpoints not able to get it.
  Then continue the issexpress to run the server to get output till first breakpoint.
  Then continued it for one more time to get privacy policy page.
  And with this, i completed my part 1.2 of the assignment.
 
- @16:57pm
+ @12:41pm
  Went to website bootstrapwatch.com to get a specific bootstrap theme.
- I choosed "Yeti" as my bootstrap theme and i download it.
- Then i copy and pasted the downloaded theme into the wwwroot>lib>bootstrap>css>bootstrap.css file.
+ I choosed "Quartz" as my bootstrap theme and i download it.
+ Then i drag and drop the downloaded theme into the wwwroot>lib>bootstrap>css file and rename the built-in bootstrap.
  Now, i have changed the file name of bootstrap file in _layout.css from "bootstrap.min.css" to "bootstrap.css".
  Changed the nav class from navbar-light to navbar-dark and bg-white to bg-primary.
  Edit the footer class with "text-white-50 bg-primary".
