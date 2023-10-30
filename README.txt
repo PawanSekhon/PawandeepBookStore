@@ -50,8 +50,12 @@ At first got errors because forgot to put "-" in between the update database.
 
  @14:15pm
  tested the project and it ran successfully.
+ added additional script and css files into "_layout.cshtml".
 
- 2023-10-30 @ 11:29am
+ @14:29pm
+ added dropdown in navbar and edit it according to the instruction.
+
+
  while attending i got to know that i cant use "Yeti" for my assignment.
  Now, i decided to change it and searched for new theme.
  I decided to choose "Quartz" as my bootstrap theme.
