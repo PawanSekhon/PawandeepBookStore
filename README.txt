@@ -39,11 +39,14 @@ At first got errors because forgot to put "-" in between the update database.
  Went to website bootstrapwatch.com to get a specific bootstrap theme.
  I choosed "Quartz" as my bootstrap theme and i download it.
  Then i drag and drop the downloaded theme into the wwwroot>lib>bootstrap>css file and rename the built-in bootstrap.
- Now, i have changed the file name of bootstrap file in _layout.css from "bootstrap.min.css" to "bootstrap.css".
+ 
+ @14:12
+
+ Then, I copy and pasted the given site.css file into the running project.
  Changed the nav class from navbar-light to navbar-dark and bg-white to bg-primary.
  Edit the footer class with "text-white-50 bg-primary".
  Remove the "text-dark" in the 23rd line in same file.
- Also, removed the "text-dark" from the "_loginPartial.cshtml" file.
+ Also, removed the "text-dark" from the "_layout.cshtml" file.
 
  @17:30pm
  tested the project and it ran successfully.
