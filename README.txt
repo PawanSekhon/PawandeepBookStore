@@ -93,6 +93,7 @@ moved the Views>home into cutomers>views
 it does not run now.
 following further steps whether it run or not.
 Copy and pasted "_ViewImports.cshtml" and "_ViewStart.cshtml" into Customer Area.
-Updated the path of "_layout.cshtml" in "_ViewStart.cshtml"
+Updated the path of "_layout.cshtml" in "_ViewStart.cshtml.
+Run the Website its not working 
 
 

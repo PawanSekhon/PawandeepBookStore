@@ -20,7 +20,6 @@
   <ItemGroup>
     <ProjectReference Include="..\PawandeepBookStore.DataAccess\PawandeepBooks.DataAccess.csproj" />
     <ProjectReference Include="..\PawansBooks.Models\PawandeepBooks.Models.csproj" />
-    <ProjectReference Include="..\PawansBooks.Utility\PawandeepBooks.Utility.csproj" />
   </ItemGroup>
 
   <ItemGroup>
