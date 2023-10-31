@@ -66,5 +66,7 @@ Installed the required packages.
 
 @22:38pm
 Deleted the migrations folder.
+Added another package named "Identity.EntityFrameworkCore" in the project.
+
 
 
