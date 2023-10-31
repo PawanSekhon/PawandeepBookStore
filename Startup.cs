@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PawandeepBookStore.DataAccess.Data;
+using Microsoft.AspNetCore.Mvc;
 
 namespace PawandeepBookStore
 {
@@ -35,6 +36,7 @@ namespace PawandeepBookStore
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
+            services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
