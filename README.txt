@@ -73,5 +73,7 @@ Added another package named "Identity.EntityFrameworkCore" in the project.
 oopzzzz!!!! found an error in "Startup.css" file and then in removed "using PawandeepBookStore.Data;" from the top of the file.
 now : no errors are showings and i am good to go.
 Deleted the default "Class1.cs" folder in all three new projects.
+run the project it run successfully.
+
 
 
