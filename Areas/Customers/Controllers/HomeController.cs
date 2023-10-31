@@ -10,6 +10,7 @@ using PawandeepBookStore.Models.ViewModels;
 
 namespace PawandeepBookStore.Controllers
 {
+    [Area("Customer")] // Added this Area attribute to specify the area
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

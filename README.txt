@@ -88,7 +88,7 @@ added reference to models and utility in DataAccess project.
 add new area in Area named as "Customers".
 changed the routes in startup.cs as mentioned in the scaffoldingReadMe.txt file.
 moved homecontroller.cs into areas>customers>controllers folder and deleted the models and data folder in customers folder.
-
+[Area("Customer")] // Added this Area attribute to specify the area
 
 
 
