@@ -90,5 +90,8 @@ changed the routes in startup.cs as mentioned in the scaffoldingReadMe.txt file.
 moved homecontroller.cs into areas>customers>controllers folder and deleted the models and data folder in customers folder.
 [Area("Customer")] // Added this Area attribute to specify the area
 moved the Views>home into cutomers>views
+it does not run now.
+following further steps whether it run or not.
+Copy and pasted "_ViewImports.cshtml" and "_ViewStart.cshtml" into Customer Area.
 
 
