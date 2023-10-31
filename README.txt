@@ -62,5 +62,9 @@ At first got errors because forgot to put "-" in between the update database.
  @22:08pm
 Add another two new projects and updated README.txt file.
 Then i cut the data folder from original project and pasted it in the "PawansBooks.DataAccess" project.
+Installed the required packages.
+
+@22:38pm
+Deleted the migrations folder.
 
 
