@@ -86,6 +86,7 @@ add SD.cs in utility project and modify class with properties.
 add project reference to main project.
 added reference to models and utility in DataAccess project.
 add new area in Area named as "Customers".
+changed the routes in startup.cs as mentioned in the scaffoldingReadMe.txt file.
 
 
 
