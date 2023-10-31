@@ -59,3 +59,8 @@ At first got errors because forgot to put "-" in between the update database.
  @17:45pm
  added new project class library named "PawandeepBookStore.DataAccess"
 
+ @22:08pm
+Add another two new projects and updated README.txt file.
+Then i cut the data folder from original project and pasted it in the "PawansBooks.DataAccess" project.
+
+
