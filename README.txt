@@ -76,5 +76,7 @@ Deleted the default "Class1.cs" folder in all three new projects.
 run the project it run successfully.
 build the project successfully.
 cut and paste models folder into PawandeepBooks.Models project.
+edited the error.cshtml file but got errors about the namespace then fix those errors after lots of struggle.
+
 
 

@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PawandeepBookStore.DataAccess\PawandeepBooks.DataAccess.csproj" />
+    <ProjectReference Include="..\PawansBooks.Models\PawandeepBooks.Models.csproj" />
   </ItemGroup>
 
 </Project>
