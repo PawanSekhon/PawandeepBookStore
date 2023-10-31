@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawandeepBookStore", "PawandeepBookStore.csproj", "{864D98FD-3D69-43C1-ACC9-BD9E6D344C89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawandeepBookStore", "PawandeepBookStore.csproj", "{864D98FD-3D69-43C1-ACC9-BD9E6D344C89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawansBooks.DataAccess", "..\PawandeepBookStore.DataAccess\PawansBooks.DataAccess.csproj", "{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawandeepBooks.DataAccess", "..\PawandeepBookStore.DataAccess\PawandeepBooks.DataAccess.csproj", "{B3A3B78B-3C6D-4296-B6F5-1866FED88FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawansBooks.Models", "..\PawansBooks.Models\PawansBooks.Models.csproj", "{E698BB28-0607-4E15-8B04-CDA66B5DFCC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawandeepBooks.Models", "..\PawansBooks.Models\PawandeepBooks.Models.csproj", "{E698BB28-0607-4E15-8B04-CDA66B5DFCC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawansBooks.Utility", "..\PawansBooks.Utility\PawansBooks.Utility.csproj", "{9C4E0E7B-2A6B-4CD1-80BC-53356C176E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawandeepBooks.Utility", "..\PawansBooks.Utility\PawandeepBooks.Utility.csproj", "{9C4E0E7B-2A6B-4CD1-80BC-53356C176E93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
