@@ -77,6 +77,9 @@ run the project it run successfully.
 build the project successfully.
 cut and paste models folder into PawandeepBooks.Models project.
 edited the error.cshtml file but got errors about the namespace then fix those errors after lots of struggle.
-Modify startup.cs with using statement and add context 
+Modify startup.cs with using statement and add context with "using Microsoft.AspNetCore.Mvc;" and "services.AddRazorPages();".
+Run the application it run successfully 
+i  didnot get  errors 
+removed the using statement
 
 
