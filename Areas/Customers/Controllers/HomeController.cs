@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PawandeepBookStore.Models;
-using PawandeepBookStore.Models.ViewModels;
 
-namespace PawandeepBookStore.Controllers
+
+namespace PawandeepBookStore.Area.Customer.Controllers
 {
     [Area("Customer")] // Added this Area attribute to specify the area
     public class HomeController : Controller
@@ -33,7 +33,7 @@ namespace PawandeepBookStore.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
     }
 }
