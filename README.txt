@@ -81,5 +81,8 @@ Modify startup.cs with using statement and add context with "using Microsoft.Asp
 Run the application it run successfully 
 i  didnot get  errors 
 removed the using statement
+review the errors and run the application again.
+add SD.cs in utility project and modify class with properties.
+add project reference to main project.
 
 
